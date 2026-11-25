@@ -43,7 +43,7 @@ The goal is simple: **make AI conversations feel customisable rather than one-si
     <td align="center"><strong>Conversation preview</strong><br><img src="chat-conversation-example.jpg" alt="Another chat interface example" width="245"></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><strong>Google login</strong><br><img src="login-screen.jpg" alt="Login screenshot placeholder — replace with the real login screen" width="245"><br><sub>Placeholder image: replace with a real login screenshot when available.</sub></td>
+    <td align="center" colspan="2"><strong>Google login</strong><br><img src="login-screen.jpg" alt="SignUp window" width="245"><br><sub>Placeholder image: replace with a real login screenshot when available.</sub></td>
   </tr>
 </table>
 
