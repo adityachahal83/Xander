@@ -43,7 +43,7 @@ The goal is simple: **make AI conversations feel customisable rather than one-si
     <td align="center"><strong>Conversation preview</strong><br><img src="chat-conversation-example.jpg" alt="Another chat interface example" width="245"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Easy SignUp</strong><br><img src="chat-home-example.jpg" alt="Signup window" width="245"></td>
+    <td align="center" colspan="2"><strong>Easy SignUp</strong><br><img src="chat-home-example.jpg" alt="Signup window" width="245"></td>
   </tr>
 </table>
 
